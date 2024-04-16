@@ -1,6 +1,6 @@
 local config = require("cmp.config")
 local cmp = require("cmp")
-local source_name = "stylemyapp"
+local source_name = "rusticflow"
 
 local default_config = {
 	label = "[" .. (source_name:gsub("^%l", string.upper)) .. "]",
