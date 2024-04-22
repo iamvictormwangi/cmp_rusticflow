@@ -9,6 +9,9 @@ local default_config = {
 		-- html and templating
 		"html",
 		"jinja.html",
+		"ejs",
+		"hbs",
+		"svelte",
 		-- javascript
 		"javascript",
 		"typescript",
