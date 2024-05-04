@@ -15,6 +15,8 @@ local default_config = {
 		-- javascript
 		"javascript",
 		"typescript",
+		"tsx",
+		"jsx",
 		-- css and related
 		"css",
 		"less",
