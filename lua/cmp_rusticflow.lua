@@ -8,20 +8,13 @@ local default_config = {
 	filetypes = {
 		-- html and templating
 		"html",
-		"jinja.html",
+		"tsx",
+		"jsx",
 		"ejs",
 		"hbs",
 		"svelte",
-		-- javascript
 		"javascript",
 		"typescript",
-		"tsx",
-		"jsx",
-		-- css and related
-		"css",
-		"less",
-		"sass",
-		"scss",
 	},
 }
 
